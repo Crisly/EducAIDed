@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css" />
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://www.crisly.nl/EducAIDed/assets/css/styles_feeling_responsive.css" />
+	<script src="https://www.crisly.nl/EducAIDed/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -27,7 +27,7 @@
 
   
 	
-	<meta name="description" content="EducAIDed helpt mensen in ontwikkelingslanden bij het uitvoeren van onderwijsprojecten, omdat wij geloven dat onderwijs kansen biedt voor een betere toekomst." />
+	<meta name="description" content="Wij van EducAIDed helpen mensen in ontwikkelingslanden bij het uitvoeren van onderwijsprojecten, omdat wij geloven dat onderwijs kansen biedt voor een betere toekomst." />
 
 	
 
@@ -36,67 +36,67 @@
 
 
 	
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png" />
+	<link rel="icon" sizes="32x32" href="https://www.crisly.nl/EducAIDed/assets/img/favicon.ico" />
 
 
 
 
 	
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png" />
+	<link rel="icon" sizes="192x192" href="https://www.crisly.nl/EducAIDed/assets/img/touch-icon-192x192.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-180x180-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-152x152-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-144x144-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-120x120-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-114x114-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-76x76-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-72x72-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png" />	
+	<link rel="apple-touch-icon-precomposed" href="https://www.crisly.nl/EducAIDed/assets/img/apple-touch-icon-precomposed.png" />	
 
 
 
 
 	
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png" />
+	<meta name="msapplication-TileImage" content="https://www.crisly.nl/EducAIDed/assets/img/msapplication_tileimage.png" />
 
 
 
@@ -110,8 +110,8 @@
 	<meta property="og:locale" content="en_EN" />
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
-	<meta property="og:description" content="EducAIDed helpt mensen in ontwikkelingslanden bij het uitvoeren van onderwijsprojecten, omdat wij geloven dat onderwijs kansen biedt voor een betere toekomst." />
-	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt" />
+	<meta property="og:description" content="Wij van EducAIDed helpen mensen in ontwikkelingslanden bij het uitvoeren van onderwijsprojecten, omdat wij geloven dat onderwijs kansen biedt voor een betere toekomst." />
+	<meta property="og:url" content="https://www.crisly.nl/EducAIDed//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="Stichting EducAIDed" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt" />
+	<link type="text/plain" rel="author" href="https://www.crisly.nl/EducAIDed/humans.txt" />
 
 	
 
@@ -135,7 +135,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Stichting EducAIDed</a></h1>
+      <h1 class="show-for-small-only"><a href="https://www.crisly.nl/EducAIDed" class="icon-tree"> Stichting EducAIDed</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -176,7 +176,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/nieuws/">Nieuws</a></li>
+              <li><a href="https://www.crisly.nl/EducAIDed/social_media/">Social Media</a></li>
 
             
             
@@ -190,21 +190,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/search/">Search</a></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a href="http://localhost:4000/contact/">Contact</a></li>
+              <li><a href="https://www.crisly.nl/EducAIDed/contact/">Contact</a></li>
 
             
             
@@ -223,7 +209,7 @@
 
             
             
-              <li><a href="http://localhost:4000/">Start</a></li>
+              <li><a href="https://www.crisly.nl/EducAIDed/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -240,29 +226,24 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/about/">Over EducAIDed</a>
+                <a href="https://www.crisly.nl/EducAIDed/about/">Over EducAIDed</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/about/visie_missie/">Missie &amp; Visie</a></li>
+                      <li><a href="https://www.crisly.nl/EducAIDed/about/visie_missie/">Visie &amp; Missie</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/about/wat/">Wat wij doen</a></li>
+                      <li><a href="https://www.crisly.nl/EducAIDed/about/wat/">Wat wij doen</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000#">Hoe wij dat doen</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000#">Het team</a></li>
+                      <li><a href="https://www.crisly.nl/EducAIDed/about/team">Het team</a></li>
                     
                   </ul>
                   
@@ -281,24 +262,24 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/projects/">Projecten</a>
+                <a href="https://www.crisly.nl/EducAIDed/projects/">Projecten</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/projects/current/">Lopende project</a></li>
+                      <li><a href="https://www.crisly.nl/EducAIDed/projects/current/">Lopende projecten</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/projects/finished/">Afgeronde project</a></li>
+                      <li><a href="https://www.crisly.nl/EducAIDed/projects/finished/">Afgeronde projecten</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/projects/future/">Information for (future) partners</a></li>
+                      <li><a href="https://www.crisly.nl/EducAIDed/projects/future/">Information for (future) partners</a></li>
                     
                   </ul>
                   
@@ -317,46 +298,20 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/zelf/">Zelf doen?</a>
+                <a href="https://www.crisly.nl/EducAIDed/doen/info_scholen/">Help mee</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000zelf/sponsor/">Sponsor een project</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000#">Wordt Donateur</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000#">Wordt vrijwilliger</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000#">Fiscaal gunstig doneren voor bedrijven</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000#">Voorlichting en acties op scholen</a></li>
+                      <li><a href="https://www.crisly.nl/EducAIDed/doen/info_scholen/">Voorlichting en acties op scholen</a></li>
                     
                   </ul>
                   
               </li>
               <li class="divider"></li>
             
-          
-        
-
-              
-
-          
           
         
 
@@ -382,9 +337,6 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000" title="Stichting EducAIDed – Stichting EducAIDed">
-				<img src="http://localhost:4000/assets/img/" alt="Stichting EducAIDed – Stichting EducAIDed">
-			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
@@ -460,8 +412,8 @@
             <h5 class="shadow-black">Over EducAIDed</h5>
 
             <p class="shadow-black">
-              EducAIDed helpt mensen in ontwikkelingslanden bij het uitvoeren van onderwijsprojecten, omdat wij geloven dat onderwijs kansen biedt voor een betere toekomst.
-              <a href="http://localhost:4000/info/">Meer ›</a>
+              Wij van EducAIDed helpen mensen in ontwikkelingslanden bij het uitvoeren van onderwijsprojecten, omdat wij geloven dat onderwijs kansen biedt voor een betere toekomst.
+              <a href="https://www.crisly.nl/EducAIDed/about	/">Meer ››</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -469,11 +421,7 @@
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
               
-                <h5 class="shadow-black">Diverse zaken</h5>
-              
-            
-              
-            
+                <h5 class="shadow-black">Help mee!</h5>
               
             
               
@@ -490,27 +438,54 @@
               
                 
                   <li >
-                    <a href="/contact/"  title="Contact">Contact</a>
+                    <a href="/EducAIDed/doen/info_scholen/"  title="›› Informatie voor scholen ">›› Informatie voor scholen</a>
                   </li>
               
                 
                   <li >
-                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="/Educaided/projects/future/"  title="›› Information for (future) partners">›› Information for (future)partners</a>
                   </li>
               
               </ul>
           </div><!-- /.large-4.columns -->
-
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Network</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href=""  title=""></a>
+                </li>
+            
+              
+                <li >
+                  <a href="/EducAIDed/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                </li>
+            
+              
+                <li >
+                  <a href="/EducAIDed/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                </li>
+            
+              
+                <li >
+                  <a href="/EducAIDed/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+		  
 
         </div><!-- /.row -->
 
@@ -521,16 +496,30 @@
         <nav class="row">
           <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
             <p>
-              Leave some &hearts;
-              for&nbsp;
-              <a href="http://phlow.de" alt="Theme created by Phlow">Phlow</a>
+				<a href="https://www.educaided.org">Stichting EducAIDed</a> <br> 
+				J.C. Kapteynlaan 26 <br> 
+				9714 CR Groningen <br>
+				<a href="mailto:info@educaided.org">info@educaided.org</a>
+				<br>
+				<br>
+				<img src="https://www.crisly.nl/EducAIDed/images/logo/cbf.jpg" alt="CBF", style="height:60px", hspace="5">
+				<img src="https://www.crisly.nl/EducAIDed/images/logo/anbi.jpg" alt="ANBI", style="height:60px", hspace="5">
+				<img src="https://www.crisly.nl/EducAIDed/images/logo/sponsored_byte_125x75px.jpg" alt="Byte", style="height:60px", hspace="5">
+				
+				<br>
+				<br>
+              	By <a href="http://www.crisly.nl">Crisly</a> based on <a href="http://jekyllrb.com/">Jekyll</a> 				using <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>
             </p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
             <ul class="inline-list">
             
+              <li><a href="https://www.youtube.com/channel/UCIx8FJ1uDihOxL_pyBLtCHw" target="_blank" class="icon-youtube" title="EducAIDed youtube channel"></a></li>
+            
               <li><a href="https://twitter.com/EducAIDed" target="_blank" class="icon-twitter" title="EducAIDed twitter feed"></a></li>
+            
+              <li><a href="https://www.facebook.com/stichting.educaided" target="_blank" class="icon-facebook" title="EducAIDed op facebook"></a></li>
             
               <li><a href="https://www.linkedin.com/groups/3963868/profile" target="_blank" class="icon-linkedin" title="EducAIDed LinkedIn profile"></a></li>
             
@@ -543,7 +532,7 @@
 		
 
 
-<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+<script src="https://www.crisly.nl/EducAIDed/assets/js/javascript.min.js"></script>
 
 
 

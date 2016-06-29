@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 30 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>https://www.crisly.nl/EducAIDed/404.html</loc>
 	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/about/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/about/</loc>
 	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,26 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/blog/archive/</loc>
 	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,223 +52,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/contact/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/atom.xml</loc>
 	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/projects/finished/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/projects/future/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/nieuws/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/info/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/projects/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/redirect-page/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/search/</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
-	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,9 +69,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/about/visie_missie/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/contact/</loc>
 	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -315,9 +84,300 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/projects/vista/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/projects/current/</loc>
 	
-		<lastmod>2015-12-24T22:26:44+01:00</lastmod>
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/feed.xml</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/feed.xml</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/projects/finished/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/projects/future/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/humans.txt</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/blog/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/nieuws/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/doen/info_scholen/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/projects/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/redirect-page/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/robots.txt</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/search/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/sitemap.xml</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/social_media/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/about/team/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/about/visie_missie/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/about/wat/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/blog/page2/</loc>
+	
+		<lastmod>2016-06-29T13:42:39+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -329,11 +389,86 @@
 	
 
 
-<!-- Posts: 5 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 10 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/nieuws/Brede-school/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/animation/oma/</loc>
+	
+		<lastmod>2016-05-11T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/current/ceredo/</loc>
+	
+		<lastmod>2016-01-26T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/finished/vista/</loc>
+	
+		<lastmod>2015-12-26T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/current/tak/</loc>
+	
+		<lastmod>2015-12-26T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/current/fofcod/</loc>
+	
+		<lastmod>2015-12-26T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.crisly.nl/EducAIDed/nieuws/Brede-school/</loc>
 	
 		<lastmod>2015-12-24T00:00:00+01:00</lastmod>
 	
@@ -348,7 +483,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/finished/uac/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/finished/uac/</loc>
 	
 		<lastmod>2015-12-24T00:00:00+01:00</lastmod>
 	
@@ -363,7 +498,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/finished/tshega/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/finished/tshega/</loc>
 	
 		<lastmod>2015-12-24T00:00:00+01:00</lastmod>
 	
@@ -378,7 +513,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/finished/mavambo/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/finished/mavambo/</loc>
 	
 		<lastmod>2015-12-24T00:00:00+01:00</lastmod>
 	
@@ -393,7 +528,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/finished/capec/</loc>
+	<loc>https://www.crisly.nl/EducAIDed/finished/capec/</loc>
 	
 		<lastmod>2015-12-14T00:00:00+01:00</lastmod>
 	
